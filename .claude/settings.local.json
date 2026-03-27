@@ -1,0 +1,10 @@
+{
+  "permissions": {
+    "allow": [
+      "Bash(find 'C:\\\\Users\\\\khs03\\\\Desktop\\\\My_work\\\\기타 업무\\\\Claude_Study' -type f -name *)",
+      "Bash(npx skills:*)",
+      "Bash(gh auth:*)",
+      "Bash(git --version)"
+    ]
+  }
+}
